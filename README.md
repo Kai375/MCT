@@ -1,6 +1,8 @@
 # MCT
 # Rudimentary MCT project. Made with Java.
 
+# This is an older project of mine made in BlueJ, the easiest way to open it is with BlueJ and clicking the 'BlueJ Project File' that is within the project directory, or pass it to your IDE.  
+
 # Project description:
 
 This is a program that implements a multiple-choice questionnaire (MCT). Each question will have four possible answers, only one of which is correct.
