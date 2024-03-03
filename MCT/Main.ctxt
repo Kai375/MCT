@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ JavaFX\ class\ Main.\r\n\r\n\ @author\ Kai\ Toledano\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ This\ is\ the\ start\ method,\ when\ take\ a\ class\ and\ extends\ it\ using\ the\ Appilcation\ interface,\ we\ most\ use\ this\ method.\r\n\ From\ here\ the\ program\ will\ load\ the\ fxml\ file\ and\ create\ a\ scene\ based\ on\ it's\ data.\r\n\r\n\ @param\ Stage\ stage\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

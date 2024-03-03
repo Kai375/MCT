@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Question
+comment0.text=\r\n\ Formulates\ the\ data\ from\ the\ file\ via\ TextReader\ class.\r\n\r\n\ @author\ Kai\ Toledano\r\n
+comment1.params=question\ choices\ answer
+comment1.target=Question(java.lang.String,\ java.lang.String[],\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Question\ class.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getQuestion()
+comment3.params=
+comment3.target=java.util.ArrayList\ getChoices()
+comment4.params=
+comment4.target=java.lang.String\ getAnswer()
+numComments=5

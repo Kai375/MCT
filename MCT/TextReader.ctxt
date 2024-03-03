@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextReader
+comment0.text=\r\n\ Retrieves\ the\ data\ from\ the\ file.\r\n\r\n\ @author\ Kai\ Toledano\r\n
+comment1.params=
+comment1.target=TextReader()
+comment1.text=\r\n\ Constructor\ for\ TextReader\ class.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getQuestionSet()
+numComments=3
